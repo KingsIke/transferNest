@@ -1,3 +1,3 @@
 export interface IAuthService {
-  validateUser: any;
+  validateUser(): any;
 }
